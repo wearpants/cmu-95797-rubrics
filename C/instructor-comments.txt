@@ -1,0 +1,5 @@
+Missing filename column
+missing code to ingest parquet files
+missing all_varchar on CSV ingest
+missing dump_raw_schemas.sql script
+no documentation
